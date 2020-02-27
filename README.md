@@ -1,4 +1,4 @@
-# Performance Analysis of ETFs
+# Performance Analysis of ETFs in R
 ## ETF fund analysis and Portfolio Management
 
 The objective of this project is to examine the performance of large AI ETFs and assess the risk environments.
